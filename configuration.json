@@ -1,0 +1,29 @@
+{
+  "underlying":
+  {
+    "zone_identifier": "",
+    "identifier": "",
+    "Email": "",
+    "Authorization": "Bearer APIKEY",
+    "Time": 60,
+    "pollTime": 5,
+    "IP": "",
+    "pingTime": 10,
+    "overtime": 500
+  },
+  "cloudfareDNS":
+  [
+    {
+      "DNStype": "A",
+      "DNScontent": "",
+      "name": "@",
+      "proxied": false
+    },
+    {
+    "DNStype": "A",
+    "DNScontent": "",
+    "name": "@",
+    "proxied": false
+    }
+  ]
+}
